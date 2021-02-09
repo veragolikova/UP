@@ -1,0 +1,11 @@
+commit 792501e930fb3ec428c4861968e13e9d8422a350
+Author: Kostya <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 13:58:38 2021 +0300
+
+    add task1/status.txt
+
+commit f32eb5ed49826b064bcf9bdb1d534bf10b3f7479
+Author: Kostya <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 13:54:11 2021 +0300
+
+    add .gitignore

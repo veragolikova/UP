@@ -27,3 +27,9 @@ Changes not staged for commit:
 	modified:   task1/status.txt
 
 ----------------------------------------
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   task1/log.txt
+	modified:   task1/status.txt
+

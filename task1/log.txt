@@ -1,14 +1,44 @@
-commit 792501e930fb3ec428c4861968e13e9d8422a350
+[33mcommit 6d7b4dcf28679d30a77c35fb0ba8fb14e17cfee1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 17:17:28 2021 +0300
+
+    modified task1/status.txt
+
+[33mcommit 3f6c8d80d12b3d591d8aef704e67b40216317009[m
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 17:11:47 2021 +0300
+
+    modified task1/status.txt && modified task1/log.txt
+
+[33mcommit a9623982343b412116d826bfcbacfe95cad7f42d[m
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 17:03:31 2021 +0300
+
+    add task1/log.txt
+
+[33mcommit 792501e930fb3ec428c4861968e13e9d8422a350[m
 Author: Kostya <konstantin.nikolaenka@gmail.com>
 Date:   Tue Feb 9 13:58:38 2021 +0300
 
     add task1/status.txt
 
-commit f32eb5ed49826b064bcf9bdb1d534bf10b3f7479
+[33mcommit f32eb5ed49826b064bcf9bdb1d534bf10b3f7479[m
 Author: Kostya <konstantin.nikolaenka@gmail.com>
 Date:   Tue Feb 9 13:54:11 2021 +0300
 
     add .gitignore
+commit 6d7b4dcf28679d30a77c35fb0ba8fb14e17cfee1
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 17:17:28 2021 +0300
+
+    modified task1/status.txt
+
+commit 3f6c8d80d12b3d591d8aef704e67b40216317009
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Tue Feb 9 17:11:47 2021 +0300
+
+    modified task1/status.txt && modified task1/log.txt
+
 commit a9623982343b412116d826bfcbacfe95cad7f42d
 Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
 Date:   Tue Feb 9 17:03:31 2021 +0300

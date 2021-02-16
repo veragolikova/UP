@@ -1,4 +1,5 @@
 Hi
+Hi, Leha 
 
 commit c47556a02986b984808243d38f049316a75258b0
 Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
@@ -35,3 +36,6 @@ Author: Kostya <konstantin.nikolaenka@gmail.com>
 Date:   Tue Feb 9 13:54:11 2021 +0300
 
     add .gitignore
+    
+    
+    
